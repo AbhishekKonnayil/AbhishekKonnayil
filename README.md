@@ -1,3 +1,8 @@
 Hi 👋! I'm Abhishek Konnayil
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AbhishekKonnayil&theme=merko&hide_border=false&layout=compact&langs_count=6&langs_colors=FFFF00,,,)
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhishekKonnayil&theme=radical&hide_border=false&layout=compact&langs_count=6&langs_color=FFFF00" 
+alt="Top Languages" 
+style="float: right;"
+/>                         
+
